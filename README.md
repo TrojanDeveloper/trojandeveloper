@@ -1,1 +1,1 @@
-### 👋 Full Stack Developer | Web & Shopify & Blockchain & AI 👋
+### 👋 Full Stack Developer | Web & Blockchain & AI 👋
