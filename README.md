@@ -1,1 +1,1 @@
-### 👋 Full Stack Developer | Web & Blockchain & AI 👋
+### 👋 React Developer | Next.js | TypeScript | JavaScript 👋
