@@ -1,1 +1,1 @@
-### 👋 React Developer | Next.js | TypeScript | JavaScript 👋
+### 👋 Full Stack Developer | Python | JavaScript | Next.js | Django 👋
