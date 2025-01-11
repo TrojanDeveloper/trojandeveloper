@@ -1,1 +1,1 @@
-### 👋 Full Stack Developer | Python | JavaScript | Next.js | Django 👋
+### 👋 Full Stack Developer | Java | Spring Boot | Angular | Microservices 👋
